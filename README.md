@@ -4,9 +4,11 @@
 
 Meu nome é Arthur, sou um amante de ciência, tecnologia, cultura pop e gatos. Possuo formação como Técnico em Informática pelo Instituto Federal do Maranhão (IFMA) e graduando em Ciência da Computação pela Universidade Federal do Maranhão (UFMA).
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurPassos16)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPassos16)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+    <a href="https://github.com/ArthurPassos16">
+    <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=ArthurPassos16&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+    <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPassos16&layout=compact&langs_count=16&theme=dark" />
+</div>
 
 ## Technologies
 <p align = "center">
