@@ -2,7 +2,7 @@
 # Olá 🚀
 
 
-Meu nome é Arthur, sou um amante de ciência, tecnologia, cultura pop e gatos. Possuo formação em Técnico em Informática pelo Instituto Federal do Maranhão (IFMA) e graduando em Ciência da Computação pela Universidade Federal do Maranhão (UFMA). 
+Meu nome é Arthur, sou um amante de ciência, tecnologia, cultura pop e gatos. Possuo formação como Técnico em Informática pelo Instituto Federal do Maranhão (IFMA) e graduando em Ciência da Computação pela Universidade Federal do Maranhão (UFMA).
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurPassos16)](https://github.com/anuraghazra/github-readme-stats)
 
