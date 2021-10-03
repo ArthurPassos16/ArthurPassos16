@@ -4,6 +4,8 @@
 
 Meu nome é Arthur, sou um amante de ciência, tecnologia, cultura pop e gatos. Possuo formação como Técnico em Informática pelo Instituto Federal do Maranhão (IFMA) e graduando em Ciência da Computação pela Universidade Federal do Maranhão (UFMA).
 
+Pronomes (He/Ele/Él)
+
 <div>
     <a href="https://github.com/ArthurPassos16">
     <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=ArthurPassos16&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
