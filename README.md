@@ -19,6 +19,7 @@ Pronomes (He/Ele/Él)
 <img height = "80" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 <img height = "80" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img height = "80" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+<img height = "80" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img height = "80" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
 <img height = "80" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
 <img height = "80" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg">
