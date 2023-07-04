@@ -28,7 +28,7 @@ Pronomes (He/Ele/Él)
 </p>
 
 ## Contato
-[![Gmail Badge](https://img.shields.io/badge/-arthur.passos@discente.ufma.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthur.passos@discente.ufma.br)](mailto:arthur.passos@discente.ufma.br)
+[![Gmail Badge](https://img.shields.io/badge/-arthurpassosti@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurpassosti@gmail.com)](mailto:arthurpassosti@gmail.com)
 
 <!--
 **ArthurPassos16/ArthurPassos16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
