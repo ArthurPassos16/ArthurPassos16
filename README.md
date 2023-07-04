@@ -2,7 +2,7 @@
 # Olá 😉
 
 
-Meu nome é Arthur, sou um amante de ciência, tecnologia, cultura pop e gatos. Possuo formação como Técnico em Informática pelo Instituto Federal do Maranhão (IFMA) e graduando em Ciência da Computação pela Universidade Federal do Maranhão (UFMA).
+Meu nome é Arthur, sou um amante de ciência, tecnologia, cultura pop e gatos. Atualmente sou mestrando em Ciência da Computação pela Universidade Federal do Maranhão (UFMA). Sou formado em Ciência da Computação pela Universidade Federal do Maranhão (UFMA).
 
 Pronomes (He/Ele/Él)
 
