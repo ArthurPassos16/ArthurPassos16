@@ -2,7 +2,7 @@
 # Olá 😉
 
 
-Meu nome é Arthur, sou um amante de ciência, tecnologia, cultura pop e gatos. Atualmente sou mestrando em Ciência da Computação pela Universidade Federal do Maranhão (UFMA). Sou formado em Ciência da Computação pela Universidade Federal do Maranhão (UFMA).
+Meu nome é Arthur, sou um amante de ciência, tecnologia, cultura pop e gatos. Desenvolvedor Mobile Pleno (Flutter/Dart). Mestre em Ciência da Computação pela Universidade Federal do Maranhão (UFMA). Bacharel em Ciência da Computação pela Universidade Federal do Maranhão (UFMA).
 
 Pronomes (He/Ele/Él)
 
