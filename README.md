@@ -12,15 +12,7 @@ Meu nome é Arthur Passos. Desenvolvedor mobile pleno (Flutter/Dart). Mestre em 
 
 ## Tecnologias
 <p align = "center">
-<img height = "80" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-<img height = "80" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
-<img height = "80" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-<img height = "80" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img height = "80" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
 <img height = "80" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img height = "80" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-<img height = "80" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-<img height = "80" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg">
 <img height = "80" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
 <img height = "80" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
 </p>
