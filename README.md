@@ -2,9 +2,7 @@
 # Olá 😉
 
 
-Meu nome é Arthur, sou um amante de ciência, tecnologia, cultura pop e gatos. Desenvolvedor Mobile Pleno (Flutter/Dart). Mestre em Ciência da Computação pela Universidade Federal do Maranhão (UFMA). Bacharel em Ciência da Computação pela Universidade Federal do Maranhão (UFMA).
-
-Pronomes (He/Ele/Él)
+Meu nome é Arthur Passos. Desenvolvedor mobile pleno (Flutter/Dart). Mestre em Ciência da Computação pela Universidade Federal do Maranhão (UFMA). Sou um amante da ciência, tecnologia, cultura pop e gatos. 
 
 <div>
     <a href="https://github.com/ArthurPassos16">
