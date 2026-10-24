@@ -1,36 +1,35 @@
+# Olá, eu sou o Arthur 👋
 
-# Olá 😉
+Desenvolvedor **Mobile Pleno (Flutter/Dart)** na **Citiesoft**, em São Luís - MA. Construo apps do zero até a publicação na App Store e no Google Play, com foco em arquitetura limpa, testes e CI/CD.
 
+Mestre em Ciência da Computação pela UFMA. Fora do código: ciência, cultura pop e gatos.
 
-Meu nome é Arthur Passos. Desenvolvedor mobile pleno (Flutter/Dart). Mestre em Ciência da Computação pela Universidade Federal do Maranhão (UFMA). Sou um amante da ciência, tecnologia, cultura pop e gatos. 
+## 🚀 Projetos em destaque
 
-<div>
-    <a href="https://github.com/ArthurPassos16">
-    <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=ArthurPassos16&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-    <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPassos16&layout=compact&langs_count=16&theme=dark" />
-</div>
+| Projeto | Sobre | Stack |
+| --- | --- | --- |
+| [**app_financas**](https://github.com/ArthurPassos16/app_financas) | App de finanças pessoais: receitas, despesas, categorias, dashboard com gráficos e orçamentos mensais, com sync offline | Flutter, BLoC, Firebase, Clean Architecture |
+| [**portfolio**](https://github.com/ArthurPassos16/portfolio) | Meu portfólio pessoal com os apps em que trabalhei | TypeScript |
+| [**perfumaria-catalogo**](https://github.com/ArthurPassos16/perfumaria-catalogo) | Catálogo online de perfumes com galeria de produtos | Web |
+| [**Projeto_KNN_Flores**](https://github.com/ArthurPassos16/Projeto_KNN_Flores) · [**A-Star**](https://github.com/ArthurPassos16/A-Star) | Algoritmos de IA: classificação com KNN e busca A* para labirintos | Python |
 
-## Tecnologias
-<p align = "center">
-<img height = "80" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img height = "80" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
-<img height = "80" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
+## 🛠️ Tecnologias
+
+- **Mobile:** Flutter, Dart, BLoC/Cubit, GetIt, GoRouter, Platform Channels
+- **Nativo:** Kotlin, Jetpack Compose, Swift, SwiftUI
+- **Backend e serviços:** Firebase (Auth, Firestore, Crashlytics, Cloud Messaging), APIs REST
+- **CI/CD:** GitHub Actions, Jenkins, Azure Pipelines, Fastlane
+
+<p>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="Firebase" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" />
 </p>
 
-## Contato
-[![Gmail Badge](https://img.shields.io/badge/-arthurpassosti@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurpassosti@gmail.com)](mailto:arthurpassosti@gmail.com)
+## 📫 Contato
 
-<!--
-**ArthurPassos16/ArthurPassos16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-tutys.vercel.app)
+[![Gmail](https://img.shields.io/badge/arthurpassosti@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurpassosti@gmail.com)
